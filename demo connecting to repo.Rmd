@@ -1,0 +1,18 @@
+---
+title: "demo"
+author: "Tam Nguyen"
+date: "2/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+biatch better have my money
+
+```{r}
+34+35
+```
+
+
